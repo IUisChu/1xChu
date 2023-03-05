@@ -1,6 +1,8 @@
-### Hi there 👋
+![](https://komarev.com/ghpvc/?username=1xChu&style=flat-square&label=:P)
 
 <!--
+### Hi there 👋
+
 **1xChu/1xChu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
